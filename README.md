@@ -10,4 +10,4 @@ _범용스케줄러 2개 구현_
 <br>
 <br>
 
-<img src="https://user-images.githubusercontent.com/93467085/178137198-ee8cca0d-c9f3-44de-893e-0de87563636b.png  width="200" height="400"/>
+![image](https://user-images.githubusercontent.com/93467085/178137220-9879238d-a6f3-43bb-8cb1-1da748f3ffb7.png)
